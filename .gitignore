@@ -21458,10 +21458,3 @@ streamlit/etc/jupyter/nbconfig/notebook.d/pydeck.json
 streamlit/share/jupyter/nbextensions/pydeck/extensionRequires.js
 streamlit/share/jupyter/nbextensions/pydeck/index.js
 streamlit/share/jupyter/nbextensions/pydeck/index.js.map
-word/pyvenv.cfg
-word/Scripts/activate
-word/Scripts/activate.bat
-word/Scripts/Activate.ps1
-word/Scripts/deactivate.bat
-word/Scripts/python.exe
-word/Scripts/pythonw.exe
