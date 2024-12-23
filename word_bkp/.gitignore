@@ -1,3 +1,6 @@
 venv
 output
-*.py
+streamlit.py
+streamlit_lol.py
+spire.py
+chatgpt.py
