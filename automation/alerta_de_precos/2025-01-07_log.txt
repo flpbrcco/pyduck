@@ -1,0 +1,6 @@
+2025-01-07 21:00:20 ;Initiating... Tracking every 15 minutes
+2025-01-07 21:00:43 ;DB file does NOT exists, no products to browse, correct it!
+2025-01-07 21:01:16 ;Initiating... Tracking every 15 minutes
+2025-01-07 21:01:45 ;DB file does NOT exists, no products to browse, correct it!
+2025-01-07 21:02:50 ;Initiating... Tracking every 15 minutes
+2025-01-07 21:02:52 ;DB file does NOT exists, no products to browse, correct it!

@@ -1,0 +1,6 @@
+docs
+include
+lib
+scripts
+*.cfg
+*.xlsx
