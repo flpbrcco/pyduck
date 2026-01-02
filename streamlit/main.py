@@ -1,7 +1,6 @@
-'''docstring'''
+def main():
+    print("Hello from streamlit!")
 
-import streamlit as st
 
-x = st.slider('x')
-st.write(x, 'squared is', x * x)
-
+if __name__ == "__main__":
+    main()

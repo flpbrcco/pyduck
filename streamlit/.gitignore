@@ -1,6 +1,2 @@
-etc
-include
-lib
-scripts
-share
-*.cfg
+.venv
+.python-version
