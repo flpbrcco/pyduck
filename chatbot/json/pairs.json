@@ -1,0 +1,216 @@
+[
+  {
+    "patterns": [
+      "oi",
+      "olá",
+      "e aí",
+      "hello"
+    ],
+    "responses": [
+      "Olá! Como vai?",
+      "Oi! Em que posso ajudar?"
+    ]
+  },
+  {
+    "patterns": [
+      "como você está",
+      "tudo bem"
+    ],
+    "responses": [
+      "Estou bem, obrigado! E você?",
+      "Ótimo, e contigo?"
+    ]
+  },
+  {
+    "patterns": [
+      "tchau",
+      "bye",
+      "até logo",
+      "goodbye"
+    ],
+    "responses": [
+      "Tchau! Volte sempre.",
+      "Até mais! Tenha um bom dia."
+    ]
+  },
+  {
+    "patterns": [
+      "qual seu nome",
+      "quem é você"
+    ],
+    "responses": [
+      "Sou um chatbot simples feito com NLTK e Streamlit.",
+      "Chatbot local para testes!"
+    ]
+  },
+  {
+    "patterns": [
+      "me motive",
+      "motivação"
+    ],
+    "responses": [
+      "Você consegue! Continue persistindo nos projetos.",
+      "Cada erro é um passo para o sucesso em Python!"
+    ]
+  },
+  {
+    "patterns": [
+      "o que é IA",
+      "inteligência artificial"
+    ],
+    "responses": [
+      "IA simula inteligência humana, como chatbots e predições.",
+      "Exemplo: Este usa NLTK para matching de padrões."
+    ]
+  },
+  {
+    "patterns": [
+      "obrigado",
+      "valeu"
+    ],
+    "responses": [
+      "De nada! 😊",
+      "Por nada, foi um prazer."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da França",
+      "capital da França"
+    ],
+    "responses": [
+      "A capital da França é Paris.",
+      "Paris é a capital da França."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Alemanha",
+      "capital da Alemanha"
+    ],
+    "responses": [
+      "A capital da Alemanha é Berlim.",
+      "Berlim é a capital da Alemanha."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Itália",
+      "capital da Itália"
+    ],
+    "responses": [
+      "A capital da Itália é Roma.",
+      "Roma é a capital da Itália."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital do Brasil",
+      "capital do Brasil"
+    ],
+    "responses": [
+      "A capital do Brasil é Brasília.",
+      "Brasília é a capital do Brasil."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital do Japão",
+      "capital do Japão"
+    ],
+    "responses": [
+      "A capital do Japão é Tóquio.",
+      "Tóquio é a capital do Japão."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Rússia",
+      "capital da Rússia"
+    ],
+    "responses": [
+      "A capital da Rússia é Moscou.",
+      "Moscou é a capital da Rússia."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Índia",
+      "capital da Índia"
+    ],
+    "responses": [
+      "A capital da Índia é Nova Délhi.",
+      "Nova Délhi é a capital da Índia."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital do Canadá",
+      "capital do Canadá"
+    ],
+    "responses": [
+      "A capital do Canadá é Ottawa.",
+      "Ottawa é a capital do Canadá."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Austrália",
+      "capital da Austrália"
+    ],
+    "responses": [
+      "A capital da Austrália é Canberra.",
+      "Canberra é a capital da Austrália."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital do México",
+      "capital do México"
+    ],
+    "responses": [
+      "A capital do México é Cidade do México.",
+      "Cidade do México é a capital do México."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Argentina",
+      "capital da Argentina"
+    ],
+    "responses": [
+      "A capital da Argentina é Buenos Aires.",
+      "Buenos Aires é a capital da Argentina."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da Espanha",
+      "capital da Espanha"
+    ],
+    "responses": [
+      "A capital da Espanha é Madrid.",
+      "Madrid é a capital da Espanha."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital do Reino Unido",
+      "capital do Reino Unido"
+    ],
+    "responses": [
+      "A capital do Reino Unido é Londres.",
+      "Londres é a capital do Reino Unido."
+    ]
+  },
+  {
+    "patterns": [
+      "qual é a capital da China",
+      "capital da China"
+    ],
+    "responses": [
+      "A capital da China é Pequim.",
+      "Pequim é a capital da China."
+    ]
+  }
+]
